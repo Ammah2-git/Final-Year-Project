@@ -1,10 +1,13 @@
-This project is built upon the official ROBOTIS OpenManipulator framework and its associated packages, including:
+This project builds on the official ROBOTIS OpenManipulator repositories and packages. We acknowledge and thank ROBOTIS for their open-source contributions, which serve as the foundation for this work:
 
-🔗 open_manipulator_perceptions – Official ROS perception package for AR marker detection and camera integration.
+open_manipulator_perceptions (https://github.com/ROBOTIS-GIT/open_manipulator_perceptions)
+→ Provides AR marker detection and perception integration in ROS.
 
-🔗 open_manipulator_controller – Core control and motion planning framework for the OpenManipulator-X robotic arm.
+open_manipulator (https://github.com/ROBOTIS-GIT/open_manipulator)
+→ Includes the controller, hardware interface, and motion logic for OpenManipulator-X.
 
-We acknowledge and thank ROBOTIS for their open-source contributions, which form the foundation of this project. This repository extends the original functionalities for research and educational purposes under the same open-source license.
+These repositories are licensed under open-source terms by ROBOTIS. This project was developed for academic and educational purposes by extending their functionality.
+
 
 # Final-Year Project: Autonomous Pick-and-Place System Using OpenManipulator-X
 
