@@ -1,3 +1,11 @@
+This project is built upon the official ROBOTIS OpenManipulator framework and its associated packages, including:
+
+🔗 open_manipulator_perceptions – Official ROS perception package for AR marker detection and camera integration.
+
+🔗 open_manipulator_controller – Core control and motion planning framework for the OpenManipulator-X robotic arm.
+
+We acknowledge and thank ROBOTIS for their open-source contributions, which form the foundation of this project. This repository extends the original functionalities for research and educational purposes under the same open-source license.
+
 # Final-Year Project: Autonomous Pick-and-Place System Using OpenManipulator-X
 
 This repository contains the source code, libraries, configuration files, and documentation for the development of a real-time autonomous robotic sorting system using the OpenManipulator-X robotic arm and ROS Noetic. The project was implemented for a Final Year Project in the Mechatronics Engineering program at Universiti Teknologi Malaysia (UTM).
