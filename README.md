@@ -17,6 +17,7 @@ This repository contains the source code, libraries, configuration files, and do
 
 The system is capable of detecting objects tagged with AR markers using a USB camera and the `ar_track_alvar` ROS package. The OpenManipulator-X robotic arm then picks and places these objects into designated locations based on the marker ID. This is achieved using real-time image processing, coordinate transformation, and inverse kinematics implemented within the ROS framework.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AgxemAD3xE8?si=G8sN8BZ8j7tgMR7-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
